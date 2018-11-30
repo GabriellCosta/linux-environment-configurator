@@ -1,0 +1,2 @@
+source $LINUX_ENV_CREATOR/android_env
+source $LINUX_ENV_CREATOR/bash_alias
