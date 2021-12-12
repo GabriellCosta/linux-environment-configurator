@@ -1,3 +1,5 @@
 alias gs='git status'
 alias gc='git commit'
 alias gca='git commit --all'
+alias gch='git checkout'
+alias gp='git push'
