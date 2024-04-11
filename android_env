@@ -1,3 +1,4 @@
-export ANDROID_HOME=~/Android/Sdk
+export ANDROID_HOME=~/Library/Android/Sdk
+export ANDROID_SDK_ROOT=$ANDROID_HOME
 export ANDROID_TOOLS=$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_TOOLS:$ANDROID_TOOLS/bin:$ANDROID_HOME/platform-tools
